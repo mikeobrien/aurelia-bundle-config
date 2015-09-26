@@ -1,0 +1,10 @@
+{
+  "jspm": {
+    "dependencies": {
+      "aurelia-bootstrapper": "github:aurelia/bootstrapper@^0.17.0"
+    }
+  },
+  "dependencies": {
+    "aurelia-bundler": "^0.1.7"
+  }
+}
